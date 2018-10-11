@@ -9,10 +9,10 @@ public class PowersTable {
 	public static void main(String[] args) {
 
 		Scanner scan = new Scanner(System.in);
-		int i;
-		int usrNum = 0;
-		int numSquare = 0;
-		int numCubed = 0;
+		long i;
+		long usrNum = 0;
+		long numSquare = 0;
+		long numCubed = 0;
 		String cont = "y";
 
 		while (cont.equalsIgnoreCase("y")) {
